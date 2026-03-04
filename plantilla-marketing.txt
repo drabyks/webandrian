@@ -1,0 +1,34 @@
+PLANTILLA DE PLAN DE MARKETING
+================================
+EmprendeES — emprendeenespana.es
+
+OBJETIVOS SMART (trimestre)
+1. _________________________ en _____ semanas
+2. _________________________ en _____ semanas
+
+CLIENTE IDEAL (Buyer Persona)
+Nombre ficticio: ________________
+Edad: ___ | Profesión: ______________
+Problema principal: _______________
+Dónde busca información: __________
+Presupuesto dispuesto a pagar: ____
+
+CANALES SELECCIONADOS
+Canal 1: _____________ | Frecuencia: ___ veces/semana
+Canal 2: _____________ | Frecuencia: ___ veces/semana
+Canal 3: _____________ | Presupuesto: ___€/mes
+
+PRESUPUESTO MENSUAL
+SEO/Contenido:    ___€
+Publicidad pago:  ___€
+Redes sociales:   ___€
+Email marketing:  ___€
+TOTAL:            ___€
+
+KPIs A MEDIR MENSUALMENTE
+Visitas web: _____
+Leads generados: _____
+Tasa conversión: _____%
+Coste por cliente: ___€
+
+emprendeenespana.es/pages/plantilla-marketing.html

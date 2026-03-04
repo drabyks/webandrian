@@ -1,0 +1,26 @@
+PLANTILLA DE FINANZAS — PYMES Y AUTÓNOMOS
+==========================================
+EmprendeES — emprendeenespana.es
+
+INGRESOS MENSUALES
+Producto/Servicio | Precio | Unidades | Total
+_________________ | ______ | ________ | _____
+TOTAL:                                  _____
+
+GASTOS FIJOS MENSUALES
+Cuota autónomo/SS:     _______
+Alquiler:              _______
+Teléfono/Internet:     _______
+Software:              _______
+Publicidad:            _______
+Gestoría:              _______
+TOTAL GASTOS:          _______
+
+RESULTADO MENSUAL
+Ingresos - Gastos = Beneficio estimado: _______
+
+PUNTO DE EQUILIBRIO
+Necesito facturar _______ € al mes para cubrir todos los gastos.
+
+Descarga la versión Excel/Google Sheets en:
+emprendeenespana.es/pages/plantilla-finanzas.html

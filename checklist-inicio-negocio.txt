@@ -1,0 +1,33 @@
+CHECKLIST DE INICIO DE NEGOCIO EN ESPAÑA
+=========================================
+EmprendeES — emprendeenespana.es
+
+FASE 1: ANTES DE LANZAR
+[ ] Validar idea con 5+ clientes potenciales
+[ ] Analizar la competencia
+[ ] Definir cliente ideal (Buyer Persona)
+[ ] Calcular inversión inicial necesaria
+[ ] Crear MVP
+
+FASE 2: TRÁMITES LEGALES
+[ ] Elegir forma jurídica
+[ ] Alta en Hacienda (Modelo 036/037)
+[ ] Alta en la Seguridad Social (RETA)
+[ ] Abrir cuenta bancaria
+[ ] Contratar seguro si aplica
+
+FASE 3: INFRAESTRUCTURA
+[ ] Crear web o perfil profesional
+[ ] Email profesional
+[ ] Software de facturación
+[ ] Métodos de cobro configurados
+[ ] Perfiles en redes sociales
+[ ] Google My Business (si local)
+
+FASE 4: PRIMERAS VENTAS
+[ ] Contactar 20 primeros clientes
+[ ] Publicar contenido en redes
+[ ] Emitir primeras facturas
+[ ] Recopilar reseñas y testimonios
+
+Ver guía completa: emprendeenespana.es
